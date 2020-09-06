@@ -29,7 +29,9 @@ O projeto **gobarber** desenvolvido durante as aulas do bootcamp da [Rocktseat](
   - Busca de barbeiros/cabeleleiros - ✅
   - Marcação de agendamento - ✅
 
-Versões **web** 🖥  (finalizada ✅) e **mobile** (em progresso) 📱 !
+Versões: 
+  - **Web** 🖥  - Finalizada ✅  
+  - **Mobile** 📱 - em progresso 🕐
 
 ## 💻 Tecnologias 
 
